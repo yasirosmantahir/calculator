@@ -29,6 +29,7 @@
         background-color: var(--bg);
         color: var(--color);
         border-radius: 20px;
+        border : 0 solid; 
         font-size: 20px;
         margin: 0%;
 
@@ -36,7 +37,7 @@
     button:active {
             transform: scale(0.95);
             /* Scaling button to 0.98 to its original size */
-            box-shadow: 3px 2px 22px 1px rgba(119, 116, 116, 0.771);
+            box-shadow: 3px 2px 2px 1px rgba(119, 116, 116, 0.34);
             /* Lowering the shadow */
         }
 </style>

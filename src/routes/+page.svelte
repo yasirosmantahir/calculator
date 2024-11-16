@@ -36,7 +36,7 @@
     <div class="row">
       <Button class="col" label="."></Button>
       <Button class="col" label="0"></Button>
-      <Button class="col" label="=" width="115px"  bg="orange"></Button>
+      <Button class="col" label="=" width="130px"  bg="orange"></Button>
     </div>
   </div>
 </div>
@@ -48,7 +48,7 @@
     flex-direction: column;
     width: 280px;
     height: 500px;
-    margin: 10% auto;
+    margin: 7% auto;
     padding-left: 11px;
     padding-right: 11px;
 
