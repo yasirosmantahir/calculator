@@ -1,4 +1,4 @@
-![screenshot](screen_shot.png)
+![screenshot](doc/screen_shot.png)
 
 # sv
 
